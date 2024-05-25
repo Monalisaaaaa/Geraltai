@@ -1,0 +1,7 @@
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+opencv-python==4.5.5.64
+wikipedia-api==0.5.4
+requests==2.28.1
+pywhatkit==5.2
+openai==0.27.0
